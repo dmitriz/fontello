@@ -26,7 +26,7 @@
                         "base64-js"     : "~ 0.0.4",
                         "cookie"        : "~ 0.1.0",
                         "csswring"      : "~ 0.2.0",
-                        "ejs"           : "~ 1.0.0",
+                        "ejs"           : "~3.1.6",
                         "find-requires" : "~ 0.2.0",
                         "formidable"    : "~ 1.0.14",
                         "fs-tools"      : "~ 0.2.10",
